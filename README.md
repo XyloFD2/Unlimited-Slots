@@ -4,7 +4,7 @@ This plugin was made for people who use pocketmine and it adds 1 player slot eve
 # Support
 If you encounter any issues or have questions about the plugin, please report them on my discord server
 
-#Credits
+# Credits
 Plugin developed and maintained by Xylo FD.
-#License
+# License
 This project is licensed under the Apache License 2.0.

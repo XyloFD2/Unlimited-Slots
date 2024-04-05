@@ -1,0 +1,6 @@
+name: Unlimited Slots
+author: Xylo FD
+api: 5.0.0
+version: 1.0.0
+main: xylofd\
+description: "This plugin was made for people who use pocketmine and it adds 1 player slot every time a player is to join the server"
